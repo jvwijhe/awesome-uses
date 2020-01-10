@@ -2004,6 +2004,28 @@ const pages = [
       'DevOps',
     ],
   },
+  {
+    name: 'Jens van Wijhe',
+    description: 'Creative Web Developer and Entrepreneur',
+    url: 'https://www.jens.ai/uses',
+    twitter: '@jvanwijhe',
+    emoji: '🏔',
+    country: '🇳🇱',
+    computer: 'apple',
+    phone: 'iphone',
+    tags: [
+      'Developer',
+      'Full Stack',
+      'JavaScript',
+      'Vue',
+      'Angular',
+      'Ionic',
+      'PHP',
+      'Laravel',
+      'Wordpress',
+      'CSS'
+    ],
+  },
 ];
 
 export default pages;
